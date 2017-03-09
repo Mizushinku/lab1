@@ -1,0 +1,18 @@
+Script started on 廿十七年三月九日 (週四) 廿時34分四秒
+]0;mizushinku@mizushinku-VirtualBox: ~/c++lab[01;32mmizushinku@mizushinku-VirtualBox[00m:[01;34m~/c++lab[00m$ whoaiw[Km[K[Kmi; [Kpwd
+mizushinku
+/home/mizushinku/c++lab
+]0;mizushinku@mizushinku-VirtualBox: ~/c++lab[01;32mmizushinku@mizushinku-VirtualBox[00m:[01;34m~/c++lab[00m$ git config -l
+user.email=frankie786214593@gmail.com
+user.name=Mizushinku
+color.ui=auto
+alias.co=checkout
+]0;mizushinku@mizushinku-VirtualBox: ~/c++lab[01;32mmizushinku@mizushinku-VirtualBox[00m:[01;34m~/c++lab[00m$ git clone https://github.com/Mizushin ku/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+]0;mizushinku@mizushinku-VirtualBox: ~/c++lab[01;32mmizushinku@mizushinku-VirtualBox[00m:[01;34m~/c++lab[00m$ ls
+[0m[01;34mlab1[0m  lab1.script
+]0;mizushinku@mizushinku-VirtualBox: ~/c++lab[01;32mmizushinku@mizushinku-VirtualBox[00m:[01;34m~/c++lab[00m$ exit
+
+Script done on 廿十七年三月九日 (週四) 廿時37分39秒
