@@ -1,0 +1,3 @@
+compile : g++ -o 3n+1_problem 3n+1_problem.cpp
+
+	this program will be terminated if input "n" <= 0 or EOF.
